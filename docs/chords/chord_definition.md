@@ -1,4 +1,11 @@
-# Definición de acordes
+---
+layout: default
+title: Formación de acordes
+parent: Acordes
+nav_order: 1
+---
+
+# Formación de acordes
 
 ## Recordatorio sobre los grados e intervalos
 
