@@ -2,7 +2,7 @@
 layout: default
 title: Formación de acordes
 parent: Acordes
-nav_order: 1
+nav_order: 2
 ---
 
 # Formación de acordes
