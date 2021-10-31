@@ -2,7 +2,7 @@ title: Apuntes de guitarra
 email: juandiazsuarez0@gmail.com
 description: Mis apuntes de guitarra.
 
-baseurl: "/guitar-notes"
+# baseurl: "/guitar-notes"
 url: "https://juandspy.github.io"
 
 heading_anchors: true
