@@ -19,7 +19,7 @@ Se muestra el caso concreto de la escala de Do, pero se aplica a cualquiera.
 
 ## Formación de los acordes más comunes
 
-Siguiendo el siguiente esquema se puede formar cualquier acorde de los que se muestran en la parte inferior. En verde se señalan los acordes modernos frente a los de la teoría clásica. Siempre se parte del primer grado. A continuación se elige uno de las 4 opciones (I, III<sup>b</sup>, III o IV) y finalmente una de los grados de la última fila.
+Siguiendo el siguiente esquema se puede formar cualquier acorde de los que se muestran en la parte inferior. En verde se señalan los acordes modernos frente a los de la teoría clásica. Siempre se parte del primer grado. A continuación se elige uno de las 4 opciones (II, III<sup>b</sup>, III o IV) y finalmente una de los grados de la última fila.
 
 Se ha señalado también el número de intervalos que hay entre cada uno de los grados, siendo `t` equivalente a un tono.
 
@@ -41,7 +41,9 @@ Se ha señalado también el número de intervalos que hay entre cada uno de los 
 
 ### Re
 
-<img src="../assets/D.PNG" alt="D" width="500"/>
+<p align="center">
+    <img src="../assets/D.PNG" alt="D" width="500"/>
+</p>
 
 - **Acorde menor:** Partiendo de un Re mayor (grados I, III y V), se puede conseguir el acorde menor utiliando el grado III<sup>b</sup> en lugar del III. Nótese cómo el tercer grado de la primera cuerda pasa a ser bemol.
 - **Acorde de séptima mayor:** Al acorde de Re mayor se le añade el grado VII. En este caso se modifica la cuerda segunda, sustituyendo la tónica (R, del inglés _root_) por una 7<sup>b</sup>.
